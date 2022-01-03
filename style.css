@@ -1,0 +1,38 @@
+body{
+    font-family: 'Secular One', sans-serif;
+    margin: 0;
+
+}
+h1{
+    font-size: 38px;
+}
+#name-color{
+    color:  rgb(180, 21, 21);
+}
+section{
+    display: flex;
+}
+.equal{
+    width: 50%;
+    padding-left: 8%;
+}
+.equal img{
+    width: 70%;}
+
+.link-button{
+    text-decoration: none;
+    font-weight: 700;
+    font-size:large ;
+    color: thistle;
+    background-color: rgb(180, 21, 21);
+    background-image: linear-gradient(rgb(112, 58, 54) rgb(90, 8, 8));
+    border: rgb(112, 58, 54) ;
+    border-radius: 6px;
+    padding: 10px 20px;
+}
+.banner{
+    background-image: url(/images/Untitled\ design\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
