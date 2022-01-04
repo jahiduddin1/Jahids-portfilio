@@ -42,7 +42,7 @@ h1{
     padding: 10px 20px;
 }
 .banner{
-    background-image: url(/images/Untitled\ design\ \(1\).png);
+    background-image: url(images/Untitled\ design\ \(1\).png);
     background-repeat: no-repeat;
     background-size: contain;
     margin-right: 2%;
@@ -52,7 +52,7 @@ p{
     text-align: justify;
 }
 .banner2{
-    background-image: url(/images/dream-bg.png);
+    background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
     margin-right: 2%;
@@ -69,7 +69,7 @@ p{
     border-image: linear-gradient(#d88888, #9f0c0c) 30;
 }
 .solo-movies{
-    background-image: url(/images/exp-bg.png);
+    background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position:left;
 }
